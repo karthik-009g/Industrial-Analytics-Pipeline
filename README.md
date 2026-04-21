@@ -20,7 +20,7 @@ This project builds a structured analytics pipeline that:
 
 * Integrates multiple industrial datasets
 * Applies explicit data quality engineering
-* Builds a medallion-style data model (RAW → CLEAN → ANALYTICS)
+* Builds a medallion-style data model (RAW → CLEAN → ANALYTICS) 
 * Produces KPI-driven SQL outputs
 * Delivers insights in Power BI
 

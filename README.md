@@ -11,7 +11,7 @@ An end-to-end industrial analytics system for manufacturing-style use cases.
 This project integrates machine sensor data and plant energy data into a layered pipeline that turns raw operational records into business insights.
 
 ---
-
+ 
 ## Overview
 
 Industrial plants generate high-volume data across machine sensors, maintenance events, and energy systems. In practice, these streams are fragmented, messy, and often not decision-ready.
